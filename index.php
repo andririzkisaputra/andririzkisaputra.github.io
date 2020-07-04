@@ -137,120 +137,45 @@
 				</div>
 			</div>
 		</div>
-
+	 <h2 align="center"><b>Pendidikan</b></h2>
 		<div class="colorlib-services colorlib-bg-white">
 			<div class="container">
 				<div class="row">
-					<div class="col-md-4 text-center animate-box">
+					<div class="col-md-3 text-center animate-box">
 						<div class="services">
-							<span class="icon">
-								<i class="icon-browser"></i>
-							</span>
-							<div class="desc">
-								<h3>Create your own template</h3>
-								<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+							<div class="desc" align="left">
+								<h3>UNIVERSITAS</h3>
+								<b><p>UNIVERSITAS AHMAD DAHLAN YOGYAKARTA</p></b>
+								<b><p>⚫ Asisten Praktikum</p></b>
+								<p>- Algoritma Pemrograman</p>
+								<p>- Struktur Data</p>
+								<p>- Pemrograman Beriorentasi Object</p>
+								<b><p>⚫ SE Administration</p></b>
 							</div>
 						</div>
 					</div>
-					<div class="col-md-4 text-center animate-box">
+					<div class="col-md-3 text-center animate-box">
 						<div class="services">
-							<span class="icon">
-								<i class="icon-download"></i>
-							</span>
-							<div class="desc">
-								<h3>Automatic Backup Data</h3>
-								<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+							<div class="desc" align="left">
+								<h3>SMA</h3>
+								<b><p>⚫ SMAN 1 WOHA</p></b>
 							</div>
 						</div>
 					</div>
-					<div class="col-md-4 text-center animate-box">
+					<div class="col-md-3 text-center animate-box">
 						<div class="services">
-							<span class="icon">
-								<i class="icon-layers"></i>
-							</span>
-							<div class="desc">
-								<h3>Page Builder</h3>
-								<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+							<div class="desc" align="left">
+								<h3>SMP</h3>
+								<b><p>⚫ SMPN 3 WOHA</p></b>
 							</div>
 						</div>
 					</div>
-				</div>
-			</div>
-		</div>
-
-		<div class="colorlib-intro">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-8 col-md-offset-2 text-center colorlib-heading animate-box">
-						<h2>Collaborate with your design team in a new way</h2>
-						<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
-					</div>
-				</div>
-				<div class="row">
-					<div class="col-md-12 animate-box">
-						<span class="play"><a href="https://vimeo.com/channels/staffpicks/93951774" class="pulse popup-vimeo"><i class="icon-play3"></i></a></span>
-					</div>
-				</div>
-			</div>
-		</div>
-
-		<div class="colorlib-work-featured colorlib-bg-white">
-			<div class="container">
-				<div class="row mobile-wrap">
-					<div class="col-md-5 animate-box">
-						<div class="mobile-img" style="background-image: url(images/mobile-2.jpg);"></div>
-					</div>
-					<div class="col-md-7 animate-box">
-						<div class="desc">
-							<h2>Real template creation</h2>
-							<div class="features">
-								<span class="icon"><i class="icon-lightbulb"></i></span>
-								<div class="f-desc">
-									<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
-								</div>
+					<div class="col-md-3 text-center animate-box">
+						<div class="services">
+							<div class="desc" align="left">
+								<h3>SD</h3>
+								<b><p>⚫ SDN INPRES PADOLO</p></b>
 							</div>
-							<div class="features">
-								<span class="icon"><i class="icon-circle-compass"></i></span>
-								<div class="f-desc">
-									<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name</p>
-								</div>
-							</div>
-							<div class="features">
-								<span class="icon"><i class="icon-beaker"></i></span>
-								<div class="f-desc">
-									<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
-								</div>
-							</div>
-							<p><a href="#" class="btn btn-primary btn-outline with-arrow">Start collaborating <i class="icon-arrow-right3"></i></a></p>
-						</div>
-					</div>
-				</div>
-				<div class="row mobile-wrap">
-					<div class="col-md-5 col-md-push-7 animate-box">
-						<div class="mobile-img" style="background-image: url(images/mobile-1.jpg);"></div>
-					</div>
-					<div class="col-md-7 col-md-pull-5 animate-box">
-						<div class="desc">
-							<h2>Finish template creation</h2>
-							<div class="features">
-								<span class="icon"><i class="icon-lightbulb"></i></span>
-								<div class="f-desc">
-									<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
-								</div>
-							</div>
-							<div class="features">
-								<span class="icon"><i class="icon-circle-compass"></i></span>
-								<div class="f-desc">
-									<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name</p>
-								</div>
-							</div>
-							<div class="features">
-								<span class="icon"><i class="icon-beaker"></i></span>
-								<div class="f-desc">
-									<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
-								</div>
-							</div>
-							<p><a href="#" class="btn btn-primary btn-outline with-arrow">Start collaborating <i class="icon-arrow-right3"></i></a></p>
 						</div>
 					</div>
 				</div>
