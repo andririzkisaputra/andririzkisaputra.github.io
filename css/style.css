@@ -1490,3 +1490,45 @@ input[type="text"] {
 
 .js .animate-box {
   opacity: 0; }
+@media (min-width: 1204px) {
+  .batas {
+    border-left-style: solid;
+    padding-bottom: 370px;
+  }
+  .bola {
+    position: absolute;
+    left: -75px;
+    top: -1px;
+    border: solid;
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+    background-color: #808080;
+  }
+}
+
+@media (max-width: 1204px) and (min-width: 991px) {
+  .batas {
+    border-left-style: solid;
+    padding-bottom: 425px;
+  }
+  .bola {
+    position: absolute;
+    left: -63px;
+    top: -1px;
+    border: solid;
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+    background-color: #808080;
+  }
+}
+
+@media (max-width: 991px) {
+  .batas {
+    display: none;
+  }
+  .bola {
+    display: none;
+  }
+}
